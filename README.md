@@ -2,6 +2,9 @@
 The collection of Data Enrichment Papers
 
 
+###综述
+- [A Survey of Data Augmentation Approaches for NLP](https://arxiv.org/pdf/2105.03075v5) 2021 CCF A
+
 ### LLM
 - GA-Tag: Data Enrichment with an Automatic  Tagging System Utilizing Large Language Models：
 
