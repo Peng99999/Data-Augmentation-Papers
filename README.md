@@ -1,5 +1,5 @@
-# Data-Enrichment-Papers
-The collection of Data Enrichment Papers
+# Data-Augmentation-Papers
+The collection of Data Augmentation Papers
 
 
 ### 综述
