@@ -7,6 +7,7 @@ The collection of Data Augmentation Papers
 
 ### LLM
 - GA-Tag: Data Enrichment with an Automatic Tagging System Utilizing Large Language Models
+- Retrieval-Augmented Multilingual Knowledge Editing 2024 CCF A ACL
 
 **关于LLM能根据训练数据推测（生成）出相关的数据的证据**
 
