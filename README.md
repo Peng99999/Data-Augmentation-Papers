@@ -18,6 +18,8 @@ The collection of Data Augmentation Papers
 ### Zero-shot
 - Finetuend Language Models Are Zero-Shot Learners 2022 ICLR
 
+### Domian Generalization
+- [Multimodal Unsupervised Domain Generalization by Retrieving Across the Modality Gap](https://arxiv.org/pdf/2402.04416v2)
 
 ### Synthetic Data
 
